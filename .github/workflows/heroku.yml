@@ -13,7 +13,7 @@ jobs:
       - uses: actions/checkout@main
       - uses: akhileshns/heroku-deploy@master # This is the action
         with:
-          heroku_api_key: ${{secrets.HEROKU_API_KEY}}
-          heroku_app_name: "free777" #Must be unique in Heroku
-          heroku_email: ${{secrets.HEROKU_EMAIL}}
+          heroku_api_key: ${{secrets.5559b8d6-c269-4568-8f7d-54e2bbb601eb}}
+          heroku_app_name: "buyyoutubecompany" #Must be unique in Heroku
+          heroku_email: ${{secrets.tfghjhtyujh56765tyy@protonmail.com}}
           usedocker: true
